@@ -1,0 +1,9 @@
+# English strings go here for Rails i18n
+en:
+  # my_label: "My label"
+    consider_target_version_label: "consider tartget version"
+    not_consider_target_version_label: "not consider target version"
+    left_col_wider_label:"wider"
+    left_col_narrower_label:"narrower"
+    left_col_linkhide_label:"hide"
+    left_col_linkshow_label:"show"
